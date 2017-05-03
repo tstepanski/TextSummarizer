@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSummarizerCSharp", "TextSummarizerCSharp\TextSummarizerCSharp.csproj", "{CC4C84E5-D46A-48B3-95E1-E169B5DF5DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextSummarizerCSharpTests", "TextSummarizerCSharpTests\TextSummarizerCSharpTests.csproj", "{281F0496-A4BE-4DB4-93F1-61A0B3BD31E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4C84E5-D46A-48B3-95E1-E169B5DF5DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4C84E5-D46A-48B3-95E1-E169B5DF5DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4C84E5-D46A-48B3-95E1-E169B5DF5DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4C84E5-D46A-48B3-95E1-E169B5DF5DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281F0496-A4BE-4DB4-93F1-61A0B3BD31E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281F0496-A4BE-4DB4-93F1-61A0B3BD31E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281F0496-A4BE-4DB4-93F1-61A0B3BD31E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281F0496-A4BE-4DB4-93F1-61A0B3BD31E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
